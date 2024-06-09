@@ -1,3 +1,5 @@
+// Written by JATINDRA PATEL
+// INTERN AT CIPHERBYTE TECHNOLOGY
 #include <iostream>
 
 using namespace std;
